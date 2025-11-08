@@ -6,7 +6,7 @@ import styled from 'styled-components';
 // Define colors
 const colors = {
   primary: 'rgba(10, 10, 10, 0.8)',
-  secondary: '#00c785',
+  secondary: '#1a4a39ff',
   tertiary: '#FFFFFF',
 };
 

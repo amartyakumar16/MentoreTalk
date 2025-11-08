@@ -6,7 +6,7 @@ import axios from 'axios';
 // Define colors to match the Overview page
 const colors = {
   primary: '#333333',   // Dark gray
-  secondary: '#00c785', // Bright blue for secondary
+  secondary: '#35735eff', // Bright blue for secondary
   tertiary: '#FFFFFF',  // White for tertiary
 };
 
@@ -106,6 +106,8 @@ const TabButton = styled.button`
     transform: translateY(-2px);
   }
 `;
+
+
 
 const Form = styled.form`
   display: flex;
